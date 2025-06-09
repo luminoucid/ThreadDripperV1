@@ -2,6 +2,10 @@
 
 *A Satirical Take on Permacomputing*
 
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+<div style="flex: 1;">
+
 **ThreadDripper V1** is an intentionally over-engineered plant watering device. Developed as part of a project on *Permacomputing* at a design school, it serves as a humorous yet critical reflection on the role of automation and our tendency to "over-engineer" simple tasks.
 
 Inspired by [Permacomputing.net](https://permacomputing.net/), this project engages with key principles of permacomputing:
@@ -10,14 +14,21 @@ Inspired by [Permacomputing.net](https://permacomputing.net/), this project enga
 - **Care for the chips**: The device consumes computational resources to solve a trivial problem, highlighting issues of energy use and hardware overreach.
 - **Keep it small**: By deliberately scaling up complexity, the project critiques our cultural attraction to tech-heavy “solutions.”
 
-
-
 This project is a thought experiment within the **Permacomputing** discourse:  
 How many resources—energy, materials, maintenance—are we willing to invest to automate something as trivial as watering a single plant?
 
 **ThreadDripper V1** is not just a device—it’s a playful provocation: a tool to question where sustainability ends and spectacle begins.
 
 > Importantly, this GitHub documentation is part of the project itself. While the device may take a satirical angle, the commitment to open source, transparency, and reproducibility reflects the core values of the course. The project also functions as an open, low-barrier learning platform: all steps are transparent, reproducible, and modular. You can swap out materials and electronics to create your own—perhaps more reasonable—watering buddy.
+
+</div>
+
+<div style="flex: 0 0 50%;">
+  <img src="pics/ComputerRoom_01.png" alt="ThreadDripper device" style="max-width: 100%;" />
+</div>
+
+</div>
+
 ---
 
 ## Table of Contents
@@ -334,8 +345,14 @@ This project is released under the **MIT License**.
 See [`LICENSE`](LICENSE) for details.
 
 ---
+<p float="left">
+  <img src="pics/ComputerRoom_02.png" width="42%" />
+  <img src="pics/ComputerRoom_06.png" width="45%" />
+</p>
+
+
 
 ## QR Code
 
-![qr](qr_threadDripper.png)
+![qr](qr_threadDripper.png) 
 
